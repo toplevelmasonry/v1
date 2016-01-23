@@ -1,1 +1,4 @@
-/*  style.css will be here */
+/* css for top level masonry */
+body{
+  background-image:radial-gradient(yellow,#f06d06);
+}
