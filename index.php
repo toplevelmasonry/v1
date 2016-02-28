@@ -1,0 +1,253 @@
+<!DOCTYPE HTML>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+	<meta name="description" content="Top Level Masonry is North Dakota and Montana's Premier Brick Masonry Company"/>
+	<meta content="Block Masonry, Brick Masonry, Footings, Custom Brick Work, Custom Block Work, Williston, Watford City, Dickinson North Dakota & North East Montana, Tile, Hardwood Flooring, Decks, General Construction, Remodelling" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="msvalidate.01" content="1012B4DA3ECC7F603E0E8132F7ABCF90" />
+
+	<link rel="icon" type="image/ico" href="img/toplevel.ico"/>
+
+    <title>Top Level Masonry llc. North Dakota | North East Montana</title>
+
+    <link rel="stylesheet" href="css/foundation.css" />
+	<script src="js/vendor/modernizr.js"></script>
+
+				<script>
+				var message = "function disabled copyright T.L.M. LLC";
+				function rtclickcheck(keyp){ if (navigator.appName == "Netscape" && keyp.which == 3){ alert(message); return false; }
+				if (navigator.appVersion.indexOf("MSIE") != -1 && event.button == 2) { 	alert(message); return false; } }
+				document.onmousedown = rtclickcheck;
+				</script>
+
+				<!-- SMOOTH SCROLL -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>
+	$(function() {
+	$('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+		}
+		}
+	});
+	});
+	</script>
+	<!-- End of SMOOTH SCROLL -->
+
+				 <!--[if lt IE 9]>
+					<style>
+						header
+						{
+						margin: 0 auto 20px auto;
+						}
+						#four_columns .img-item figure span.thumb-screen
+						{
+						display:none;
+						}
+					</style>
+				<![endif] -->
+
+  </head>
+  <body>
+	<div id="outside_loop">
+    <div id="top">
+    <div class="row">
+    <div class="large-3 columns">
+      <h1><img src="img/top_level_masonry_image_logo.png" alt="Top Level Masonry logo" title="Top Level Masonry logo"/></h1>
+    </div>
+    <div class="large-9 columns">
+      <ul class="right button-group">
+	  <li><a href="#about" class="button">About Us</a></li>
+      <li><a href="contact.php" class="button">Contact Us</a></li>
+      <li><a href="current-projects.php" class="button">Current & Past Projects</a></li>
+      </ul>
+     </div>
+   </div>
+   </div>
+
+  <div class="row">
+    <div class="large-12 columns">
+
+    <div id="slider">
+	<div class="top_level_slider">
+     <div> <img src="img/top_level_masonry_image_slider.png" alt="Top Level Masonry specializes in many different types of brick and block applications" title="Top Level Masonry specializes in many different types of brick and block applications"/> </div>
+	 </div>
+    </div>
+    <hr/>
+    </div>
+  </div>
+
+  <div id="projects">
+
+  <div class="row">
+    <div class="large-4 columns">
+      <img src="img/top_level_masonry_image_1.png" alt="Top Level Masonry image of brick and block work" title="Top Level Masonry specializes in custom brick homes"/>
+      <h4>Custom Brick Homes</h4>
+      <p>Top Level Masonry has been involved in many custom Brick applications, <a href="contact.php">contact us today</a> to see how we can give your project that custom touch!</p>
+    </div>
+
+    <div class="large-4 columns">
+      <img src="img/top_level_masonry_image_2.png" alt="Top Level Masonry image of brick and block work" title="Top Level Masonry specializes in custom block work"/>
+      <h4>Custom Block Work</h4>
+      <p>From the ground up Top Level Masonry is involved in the block work, we guarantee the perfect application that will out-last any structure you put on top of it!</p>
+    </div>
+
+    <div class="large-4 columns">
+      <img src="img/top_level_masonry_image_3.png" alt="Top Level Masonry image of brick and block work" title="The crew at Top Level Masonry have over 60+ Years Experience"/>
+      <h4>60+ Years Experience</h4>
+      <p>T.L.M. llc has over 60 years of combined experience in the masonry business, give us a call today to see how we can put this experience to work for your project.</p>
+    </div>
+
+    </div>
+	</div>
+
+	<div class="row">
+    <div class="large-4 columns">
+      <img src="img/toplevel_march_2015_photo_1.png" alt="Top Level Masonry image of brick and block work" title="Top Level Masonry Builds Custom Columns"/>
+      <h4>Custom Twisted Columns</h4>
+      <p>We are well known for our custom work, including these twisted brick columns - contact us today so we can give your project a one of a kind custom touch!</p>
+    </div>
+
+    <div class="large-4 columns">
+      <img src="img/top_level_masonry_image_5.png" alt="Top Level Masonry image of brick and block work" title="Top Level Masonry has been involved in many LARGE scale Projects"/>
+      <h4>No Job too Large</h4>
+      <p>Over the years we have been involved in some very large scale builds, be sure to give us a call so we can help you on yours! There isn't a job too large for T.L.M.</p>
+    </div>
+
+    <div class="large-4 columns">
+      <img src="img/top_level_masonry_image_6.png" alt="Top Level Masonry image of brick and block work" title="No Job too Small for TLM"/>
+      <h4>No Job too Small</h4>
+      <p>We have also been involved in quite a few smaller projects, don't hesitate to give us a call and hear about how we can help you on your project.</p>
+    </div>
+
+    </div>
+
+	<div class="row">
+    <div class="large-4 columns">
+      <img src="img/tile_at_top_level.png" alt="Top Level Masonry image of brick and block work" title="Top Level Masonry Installs Tile & Hardwood Flooring"/>
+      <h4>Tile & Hardwood Flooring</h4>
+      <p>Need Tile work? Give us a Call! We have Experience with everything from Tile Flooring to Back Splashes and Tile baseboards</p>
+    </div>
+
+    <div class="large-4 columns">
+      <img src="img/deck_at_tlm.png" alt="Top Level Masonry image of brick and block work" title="We Build Custom Decks"/>
+      <h4>Decks</h4>
+      <p>Need a New Deck or Repairs on your existing deck? We have lots of experience building and designing traditional and custom decks</p>
+    </div>
+
+    <div class="large-4 columns">
+      <img src="img/remodelling_at_tlm.png" alt="Top Level Masonry image of brick and block work" title="Top Level is a General Construction and Remodelling Leader in the Industry"/>
+      <h4>General Construction & Remodelling</h4>
+      <p>We are heavily involved in many general construction projects and remodels</p>
+    </div>
+
+    </div>
+
+	<div class="row">
+    <div class="large-4 columns">
+      <img src="img/top_level_website_example_3.png" alt="Top Level Masonry image of brick and block work" title="A Very Recent Example of our Current Work"/>
+      <h4>A Recent Example</h4>
+      <p>Here is an example of our work from late 2014 - early 2015</p>
+    </div>
+
+    <div class="large-4 columns">
+      <img src="img/top_level_website_example_2.png" alt="Top Level Masonry image of brick and block work" title="Top Level Masonry recent work (January 2015)"/>
+      <h4>Another Great Example</h4>
+      <p>The photo is another great example of the brick work that we are well known for.</p>
+    </div>
+
+    <div class="large-4 columns">
+      <img src="img/top_level_website_example_1.png" alt="Top Level Masonry image of brick and block work" title="Top Level Masonry's Top Notch Brick Work 2015"/>
+      <h4>Garage Side View</h4>
+      <p>We are well known for 3+ stories of brick work, with a keen attention to details we are ready for your next project.</p>
+    </div>
+
+    </div>
+
+	<div class="row">
+    <div class="large-4 columns">
+      <img src="img/top_level_masonry_image_7.png" alt="Top Level Masonry image of brick and block work" title="TLM has been involved in many Spec home applications"/>
+      <h4>Spec & Custom Homes</h4>
+      <p>We have been contracted to build many brick structures, from custom homes, to spec homes and even several franchise projects! Let us help you on your large scale small building builds.</p>
+    </div>
+
+    <div class="large-4 columns">
+      <img src="img/top_level_masonry_image_8.png" alt="Top Level Masonry image of brick and block work" title="Top Level Masonry has been involved in many Large Scale Institutional Projects"/>
+      <h4>Institutional Buildings</h4>
+      <p>We are no stranger to large buildings either, we have been contacted and asked to be a vital part of many large institutional buildings. The building in the photo was built on a strict time-line and the job was a huge success!</p>
+    </div>
+
+    <div class="large-4 columns">
+      <img src="img/top_level_masonry_image_9.png" alt="Top Level Masonry image of brick and block work" title="TLM has set the foundations for many of the countries top Sports Stadiums"/>
+      <h4>Iconic Structures</h4>
+      <p>Regardless of who your favorite football or sports team is; the tunnel is an iconic part of any pre-game; we have done the brick work on a few of them and we love to see them on TV from time to time!</p>
+    </div>
+
+    </div>
+
+
+ <div id="about">
+	<div class="row">
+		<div class="large-12 columns">
+				<div class="panel">		<h4>About Top Level Masonry</h4>
+    <div class="row">
+         <div class="large-9 columns">
+            <p>Top Level Masonry specializes in custom brick and block work, Centrally located in North Dakota T.L.M. works in Watford City, Williston and in Dickinson. We also work from time to time in North Eastern Montana. We have more than 60 years of combined experience in the masonry business and we have layed the stone work for foundations, custom buildings, timeless architectural buildings and things as simple as a custom brick mailbox. Ready to start a conversation? Learn about us or get a free quote? Contact us Today!</p>
+          </div>
+			<div class="large-3 columns">
+				<a href="contact.php" class="radius button right">Contact Us</a>
+				</div>
+					</div>
+						</div>
+							<hr/>
+								</div>
+									</div>
+
+   <div class="row">
+    <div class="large-12 columns">
+    <div id="slider">
+	<div class="top_level_slider">
+     <div> <img src="img/top_level_masonry_image_footer.png" alt="Top Level Masonry image of brick and block work" title="Top Level Masonry specializes in many different types of brick and block work"/> </div>
+	 </div>
+    </div>
+
+    <hr/>
+    </div>
+  </div>
+
+  <footer class="row">
+    <div class="large-12 columns">
+      <div class="row">
+        <div class="large-6 columns">
+          <p>&copy; <?php echo date('Y')?> Top Level Masonry LLC.</p>
+        </div>
+        <div class="large-6 columns">
+          <ul class="inline-list right">
+			<li><a href="#top"><p style="color:black;">back to the top</p></a></li>
+			<li><a href="contact.php"><p style="color:black;">contact us</p></a></li>
+			<li><a href="tel:7017135610"><p style="color:black">Call us at <mark>701-713-5610</mark></p></a></li>
+			<li><a href="http://www.facebook.com/toplevelmasonry"><img src="img/facebook_logo_top_level.png" alt="like us on facebook" title="like Top Level on facebook"></a></li>
+			<li><a href="articles.php"><p style="color:black;">articles</p></a></li>
+			<li><a href="current-projects.php"><p style="color:black;">projects</p></a></li>
+			<li><a href="sitemap.xml"><p style="color:black;">xml sitemap</p></a></li>
+            <li><a href="http://www.4point0designs.com/index.php"><p style="color:black;">web page by 4.0</p></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+  </div><!--end outside loop div-->
+
+   <script src="js/vendor/jquery.js"></script>
+   <script src="js/foundation.min.js"></script>
+   <script>$(document).foundation();</script>
+  </body>
+
+</html>
