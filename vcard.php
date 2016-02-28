@@ -1,0 +1,63 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+
+	<meta charset="utf-8" />
+	<meta name="description" content="Top Level Masonry is North Dakota and Montana's Premier Block Masonry Company"/>
+	<meta content="Block Masonry, Brick Masonry, Footings, Custom Brick Work, Custom Block Work, Williston, Watford City, Dickinson North Dakota & North East Montana" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>vCard</title>
+
+<style type='text/css'>
+.outside_border{margin-top:20px; margin-left:auto; margin-right:auto; width:440px;}
+div.vcard { background-color: rgb(0, 115, 182); border-radius: 10px 10px 10px 10px; color: white; padding: 10px 10px; width: 250px; line-height: 1.2em; }
+div.vcard a{ color: white;} div.vcard div.fn{ font-weight: bold; border-bottom: 1px solid white; }
+div.vcard div.spacer{ min-height: 0.5em; } #hcard_embed{max-width: 270px;}
+</style>
+
+<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/
+	trunk/html5-els.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+<div class="outside_border">
+
+<div><img src="img/top_level_masonry_business_card.png" alt="Jim Kron at Top Level Masonry Business Card" title="Jim Kron Top Level Masonry Business Card" height="150" width="350"></div>
+
+<hr/>
+
+<div id='hcard_embed'>
+<div id="hcard-JIm-Kron-Top Level Masonry llc." class="vcard">
+<div class="fn n"><span class="given-name">Jim</span><span class="family-name">Kron</span></div>
+<div class="org">Top Level Masonry llc.</div>
+<div class="website"><a class="website" href="http://www.TopLevelMasonry.com">http://www.TopLevelMasonry.com</a></div>
+<div class="spacer"></div><div class="email" ><a class="email" href="mailto:TopLevelMasonry@gmail.com">TopLevelMasonry@gmail.com</a></div>
+<div class="tel"><span class="type">Voice: </span>865-255-6669</div>
+<div class="spacer"></div></div>
+</div>
+
+<hr/>
+
+<iframe src="./embeddedcode.html">
+  <p>Your browser does not support this function, please try a different browser.</p>
+</iframe>
+
+<figcaption>
+Copy and Paste the above code to embed the vcard into an online document.
+</figcaption>
+</figure>
+
+<hr/>
+
+<div><img src="img/JimKron.png" alt="QR Code for Top Level Masonry" title="This is the QR Code for Top Level Masonry, it includes contact information for the company"></div>
+
+<hr/>
+
+</div><!--end outside border class-->
+</body>
+</html>
